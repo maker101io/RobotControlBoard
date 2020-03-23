@@ -30,4 +30,6 @@ In this project, DIP type components were used for easy soldering. </br></br>
 - **9V 800mAh Battery (Optional):** http://bit.ly/32oPu9X </br>
 - **9V Battery Connector:** https://bit.ly/2Ua9b4k </br>
 - **Ultrasonic Module HC-SR04:** https://bit.ly/2y2apWJ </br>
-- **IR Infrared Sensor:** https://bit.ly/2WCQgAS </br>
+- **IR Infrared Sensor:** https://bit.ly/2WCQgAS </br></br>
+# Connections
+![](Connections.png) </br></br>
