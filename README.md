@@ -1,6 +1,5 @@
 # Make at least 5 Robot Projects with one Board!
 This robot control board contains an ATmega328P microcontroller and an L293D motor driver. Of course, it is no different from an Arduino Uno board but it is more useful because it does not need another shield to drive the motor! It is free from jumper clutter and can be easily programmed with the CH340G. While driving two DC motors, you can also control different sensors by using I / O pins with this card. In this project, we used an HC-SR04 ultrasonic distance sensor and an IR infrared sensor. In addition, one servo motor was used.</br></br>
-**Full tutorial:** http://bit.ly/MertArduino </br></br>
 ![](Cover_png.png) </br></br>
 **You can program a robot with 5 different scenarios with this control card. The following scenarios are included in this project:** </br></br>
 - **SUMO mode:** It is a sport in which two robots attempt to push each other out of a circle (in a similar fashion to the sport of sumo).</br>
@@ -9,6 +8,9 @@ This robot control board contains an ATmega328P microcontroller and an L293D mot
 - **Avoiding Mode:** Obstacle Avoiding Robot is an intelligent device which can automatically sense the obstacle in front of it and avoid them by turning itself in another direction. </br>
 - **Drawing Mode:** It contains servo motor and a pen. It can draw its own movement tracks on the surface. </br></br>
 In this project, DIP type components were used for easy soldering. </br></br>
+**Full tutorial:** https://youtu.be/663y37vYbRM </br>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/663y37vYbRM/0.jpg)](http://www.youtube.com/watch?v=663y37vYbRM)</br></br>
+
 **Get the PCB & 3D Files:** https://bit.ly/2WycZxT </br></br>
 # Required Hardwares: </br>
 - **ATmega328P-PU with Bootloader:** https://bit.ly/2U9iwJw </br>
